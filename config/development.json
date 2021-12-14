@@ -1,4 +1,3 @@
 {
-  "assetsBaseUrl": "https://my-clothline-app.herokuapp.com/assets/",
-  "port": 3560
+  "assetsBaseUrl": "https://my-clothline-app.herokuapp.com/assets/"
 }
